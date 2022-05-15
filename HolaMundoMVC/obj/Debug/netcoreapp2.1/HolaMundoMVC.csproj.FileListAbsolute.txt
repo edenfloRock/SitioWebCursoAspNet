@@ -1,4 +1,0 @@
-/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/obj/Debug/netcoreapp2.1/HolaMundoMVC.csprojAssemblyReference.cache
-/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/obj/Debug/netcoreapp2.1/HolaMundoMVC.AssemblyInfoInputs.cache
-/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/obj/Debug/netcoreapp2.1/HolaMundoMVC.AssemblyInfo.cs
-/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/obj/Debug/netcoreapp2.1/HolaMundoMVC.csproj.CoreCompileInputs.cache
