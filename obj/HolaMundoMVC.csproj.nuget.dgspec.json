@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/HolaMundoMVC.csproj": {}
+    "/home/kali/Documents/Platzi/aspnetcore/SitioWebCursoAspNet/HolaMundoMVC.csproj": {}
   },
   "projects": {
-    "/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/HolaMundoMVC.csproj": {
+    "/home/kali/Documents/Platzi/aspnetcore/SitioWebCursoAspNet/HolaMundoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/HolaMundoMVC.csproj",
+        "projectUniqueName": "/home/kali/Documents/Platzi/aspnetcore/SitioWebCursoAspNet/HolaMundoMVC.csproj",
         "projectName": "HolaMundoMVC",
-        "projectPath": "/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/HolaMundoMVC.csproj",
+        "projectPath": "/home/kali/Documents/Platzi/aspnetcore/SitioWebCursoAspNet/HolaMundoMVC.csproj",
         "packagesPath": "/home/kali/.nuget/packages/",
-        "outputPath": "/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/obj/",
+        "outputPath": "/home/kali/Documents/Platzi/aspnetcore/SitioWebCursoAspNet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kali/.nuget/NuGet/NuGet.Config"

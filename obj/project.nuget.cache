@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hFx7giY4XR47SasxlCsHi/c3RGfFK1TTPErnOajYGelRUUjCYCc7gMPPm1PXocm9GapxB3hjvSgi7bmDcIgCOg==",
+  "dgSpecHash": "sAXwEFP1Q7DI4+odx6yRinGtlOA9I3Yn0ZqsAYYjSTYJcKzZafyeMObYJH6klkuaslV/cghP9aW6CJBGMXDayQ==",
   "success": true,
-  "projectFilePath": "/home/kali/Documents/Platzi/aspnetcore/HolaMundoMVC/HolaMundoMVC.csproj",
+  "projectFilePath": "/home/kali/Documents/Platzi/aspnetcore/SitioWebCursoAspNet/HolaMundoMVC.csproj",
   "expectedPackageFiles": [
     "/home/kali/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/home/kali/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
